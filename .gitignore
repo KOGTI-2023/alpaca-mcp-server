@@ -22,3 +22,6 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+ 
+# Copilot instructions nicht ins Repo einchecken
+.github/copilot-instructions.md
